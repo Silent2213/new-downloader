@@ -4,6 +4,7 @@
 - [MahsaNG_15_arm64-v8a](./MahsaNG_15_arm64-v8a)
 - [app-arm64-v8a-release](./app-arm64-v8a-release)
 - [downloads](./downloads)
+- [persepolis_5.2.0.0_windows_64bit](./persepolis_5.2.0.0_windows_64bit)
 - [windows-release](./windows-release)
 
 ---
