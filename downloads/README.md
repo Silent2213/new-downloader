@@ -8,6 +8,7 @@
 - [downloads](./downloads)
 - [persepolis_5.2.0.0_windows_64bit](./persepolis_5.2.0.0_windows_64bit)
 - [windows-release](./windows-release)
+- [zed-linux-aarch64.tar](./zed-linux-aarch64.tar)
 
 ---
 

@@ -91,6 +91,8 @@ a
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
 1. [84456408-b247-4ff4-9148-a87eba75cd97](https://github.com/Silent2213/new-downloader/tree/main/downloads/84456408-b247-4ff4-9148-a87eba75cd97)
@@ -108,5 +110,7 @@ a
 7. [persepolis_5.2.0.0_windows_64bit](https://github.com/Silent2213/new-downloader/tree/main/downloads/persepolis_5.2.0.0_windows_64bit)
 
 8. [windows-release](https://github.com/Silent2213/new-downloader/tree/main/downloads/windows-release)
+
+9. [zed-linux-aarch64.tar](https://github.com/Silent2213/new-downloader/tree/main/downloads/zed-linux-aarch64.tar)
 
 ---
